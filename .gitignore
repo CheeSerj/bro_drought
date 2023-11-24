@@ -6,6 +6,8 @@
 /out-tsc
 # Only exists if Bazel was run
 /bazel-out
+src/app/drought-timeline/config-chat.ts
+/src/app/drought-timeline/config-chat.ts
 
 # dependencies
 /node_modules
